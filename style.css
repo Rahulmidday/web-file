@@ -32,8 +32,8 @@ body {
   font-size: 30px;
 }
 img {
-  max-height: 300px;
-  max-width: 300px;
+  max-height: 400px;
+  max-width: 400px;
   user-select: none;
 }
 .paper.heart::after {
